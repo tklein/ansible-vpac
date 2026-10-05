@@ -5,6 +5,7 @@ __pycache__/
 .vscode/
 .idea/
 .DS_Store
+.worktrees/
 
 # Site-specific inventories — only the example is tracked
 inventory/*/
